@@ -31,4 +31,9 @@ And after installation of packages, execute the following command
 npm run dev
 ```
 
-### if the browser doesnt open automatically, open browser at localhost:5173
+#### if the browser doesnt open automatically, open browser at localhost:5173
+
+### Salutations
+
+I would like to thank DevTown for giving me this opportunity to showcase my skillset.
+I will eagerly look forward for your response
