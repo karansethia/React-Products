@@ -1,8 +1,34 @@
-# React + Vite
+# FASHIONNEXT - A Product Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a part of assesment for DevTown. It uses ReactJS with VITE as a build tool.Redux is used as a state management system with help of redux toolkit.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Redux for state management
+- Styled-Components for styling
+- Framer-motion for subtle animation
+- Responsive design
+
+## Installation
+
+Download the repo or run command
+
+```
+ git clone https://github.com/karansethia/React-Products.git
+```
+
+After installing and opening in editor of your choice hop into source code directory
+
+```
+npm install
+```
+
+#### above command will install all the necessary packages
+
+And after installation of packages, execute the following command
+
+```
+npm run dev
+```
+
+### if the browser doesnt open automatically, open browser at localhost:5173
