@@ -8,7 +8,7 @@ const productsSlice = createSlice({
       "description": " Summers will never be more cooler, get this is a simple black tshirt made with 100% cotton.",
       category: ["men", "tshirt"],
       price: 699,
-      "image": "../src/assets/tm1.jpg"
+      "image": "../src/assets/tm1.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@ const productsSlice = createSlice({
       "description": " Summers will never be more cooler, get this is a simple black tshirt made with 100% cotton.",
       category: ["women", "tshirt"],
       price: 799,
-      "image": "../src/assets/tw1.jpg"
+      "image": "../src/assets/tw1.png"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@ const productsSlice = createSlice({
       "description": "A blue jeans comfortable enough to play basketball in it",
       category: ["men", "jeans"],
       price: 1299,
-      "image": "../src/assets/jm1.jpg"
+      "image": "../src/assets/jm1.png"
     },
     {
       "id": 4,
@@ -32,7 +32,7 @@ const productsSlice = createSlice({
       "description": "Never hesitate to do yoga even with a jeans",
       category: ["women", "jeans"],
       price: 1299,
-      "image": "../src/assets/jw1.jpg"
+      "image": "../src/assets/jw1.png"
     },
     {
       "id": 5,
@@ -40,7 +40,7 @@ const productsSlice = createSlice({
       "description": "Grab all the attention with this royal blue party wear",
       category: ["women", "top"],
       price: 12999,
-      "image": "../src/assets/t1.jpg"
+      "image": "../src/assets/t1.png"
     },
     {
       "id": 6,
@@ -48,7 +48,7 @@ const productsSlice = createSlice({
       "description": "Grab that client interview with the radiance of your style",
       category: ["men", "suit"],
       price: 18999,
-      "image": "../src/assets/sm2.jpg"
+      "image": "../src/assets/sm2.png"
     },
     {
       "id": 7,
@@ -56,7 +56,7 @@ const productsSlice = createSlice({
       "description": "Turn some heads with a formal they've never experienced",
       category: ["men", "suit"],
       price: 19999,
-      "image": "../src/assets/sm1.jpg"
+      "image": "../src/assets/sm1.png"
     },
     {
       "id": 8,
@@ -64,7 +64,7 @@ const productsSlice = createSlice({
       "description": "Tradition never goes out of style specially with this saree",
       category: ["women", "sarees"],
       price: 11999,
-      "image": "../src/assets/s3.jpg"
+      "image": "../src/assets/s3.png"
     },
     {
       "id": 9,
@@ -72,7 +72,7 @@ const productsSlice = createSlice({
       "description": "Party like there's no tomorrow with this baby pink colored top",
       category: ["women", "top"],
       price: 699,
-      "image": "../src/assets/t3.jpg"
+      "image": "../src/assets/t3.png"
     },
     {
       "id": 10,
@@ -80,7 +80,7 @@ const productsSlice = createSlice({
       "description": "With great power there must come great urge to buy this tee",
       category: ["men", "tshirt"],
       price: 699,
-      "image": "../src/assets/tm2.jpg"
+      "image": "../src/assets/tm2.png"
     },
     {
       "id": 11,
@@ -88,7 +88,7 @@ const productsSlice = createSlice({
       "description": "With great power there must come great urge to buy this tee",
       category: ["women", "tshirt"],
       price: 699,
-      "image": "../src/assets/tw2.jpg"
+      "image": "../src/assets/tw2.png"
     },
     {
       "id": 12,
@@ -96,7 +96,7 @@ const productsSlice = createSlice({
       "description": "Bring back your royalty with our Royal Kurta collections",
       category: ["men", "kurta"],
       price: 699,
-      "image": "../src/assets/km1.jpg"
+      "image": "../src/assets/km1.png"
     },
     {
       "id": 13,
@@ -104,7 +104,7 @@ const productsSlice = createSlice({
       "description": "Some sarees are meant for only for a special person, this one definitely is for you",
       category: ["women", "sarees"],
       price: 16999,
-      "image": "../src/assets/s1.jpg"
+      "image": "../src/assets/s1.png"
     },
     {
       "id": 14,
@@ -112,7 +112,7 @@ const productsSlice = createSlice({
       "description": " Summers will never be more cooler, get this is a simple black tshirt made with 100% cotton.",
       category: ["men", "tshirt"],
       price: 699,
-      "image": "../src/assets/tm3.jpg"
+      "image": "../src/assets/tm3.png"
     },
     {
       "id": 15,
@@ -120,7 +120,7 @@ const productsSlice = createSlice({
       "description": " Summers will never be more cooler, get this is a simple black tshirt made with 100% cotton.",
       category: ["women", "tshirt"],
       price: 699,
-      "image": "../src/assets/tw4.jpg"
+      "image": "../src/assets/tw4.png"
     }],
     filterRange: 20000,
     filterCategory: [],
