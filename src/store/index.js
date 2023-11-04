@@ -8,7 +8,7 @@ const productsSlice = createSlice({
       "description": " Summers will never be more cooler, get this is a simple black tshirt made with 100% cotton.",
       category: ["men", "tshirt"],
       price: 699,
-      "image": "../src/assets/tm1.png"
+      "image": "/assets/tm1.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@ const productsSlice = createSlice({
       "description": " Summers will never be more cooler, get this is a simple black tshirt made with 100% cotton.",
       category: ["women", "tshirt"],
       price: 799,
-      "image": "../src/assets/tw1.png"
+      "image": "assets/tw1.png"
     },
     {
       "id": 3,
